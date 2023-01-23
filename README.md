@@ -5,4 +5,4 @@ This is text that is to be done for the first ~~assignenm~~ assignment for our c
 
 > Uh, am I being quoted? Where are you- HEY! GET BACK HERE!
 
-So I don't *really* know what to type here at the moment...so whatever I guess.
+I don't *really* know what to type here at the moment...so whatever I guess.
