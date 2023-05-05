@@ -1,0 +1,113 @@
+## Lab 2
+
+### This was done in a MinGW instance
+
+>>> running the $hostname command returns:
+
+Valiance 
+>(The name I gave my laptop)
+
+>>> running the $env command returns:
+
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+!C:=C:\msys64
+SHELL=/usr/bin/bash
+NUMBER_OF_PROCESSORS=16
+PROCESSOR_LEVEL=23
+WD=C:\msys64\usr\bin\
+TERM_PROGRAM_VERSION=3.5.2
+MINGW_PREFIX=/mingw64
+ACSvcPort=17532
+PKG_CONFIG_PATH=/mingw64/lib/pkgconfig:/mingw64/share/pkgconfig
+SW_SIM_MPIT=INTELMPI
+USERDOMAIN_ROAMINGPROFILE=VALIANCE
+HOSTNAME=Valiance
+GameFirstUserPath=C:\ProgramData\ASUS\GameFirst
+PROGRAMFILES=C:\Program Files
+MSYS2_PATH_TYPE=inherit
+MSYSTEM=MINGW64
+ChocolateyInstall=C:\ProgramData\chocolatey
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+ORIGINAL_TEMP=/c/Users/molte/AppData/Local/Temp
+MINGW_CHOST=x86_64-w64-mingw32
+OS=Windows_NT
+HOMEDRIVE=C:
+VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\
+MSYSTEM_CARCH=x86_64
+USERDOMAIN=VALIANCE
+PWD=/home/molte
+USERPROFILE=C:\Users\molte
+OneDriveConsumer=C:\Users\molte\OneDrive
+MANPATH=/mingw64/local/man:/mingw64/share/man:/usr/local/man:/usr/share/man:/usr/man:/share/man
+PRINTER=MF450 Series
+GameTurbo=C:\Program Files (x86)\ASUS\GameFirst\
+TZ=America/New_York
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+tmp=C:\Users\molte\AppData\Local\Temp
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/c/Python311/Scripts:/c/Python311:/c/Program Files/Common Files/Oracle/Java/javapath:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/DTS/Binn:/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit:/c/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin:/c/Program Files/IVI Foundation/VISA/Win64/Bin:/c/Program Files (x86)/National Instruments/Shared/LabVIEW CLI:/c/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin:/c/Program Files/Wolfram Research/WolframScript:/c/Program Files/Common Files/Autodesk Shared:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files (x86)/dotnet:/c/Program Files/MATLAB/MATLAB Runtime/v92/runtime/win64:/c/ProgramData/chocolatey/bin:/c/Program Files (x86)/FAHClient:/c/Program Files/MATLAB/R2021b/runtime/win64:/c/Program Files/MATLAB/R2021b/bin:/c/Program Files/nodejs:/c/Users/molte/AppData/Local/Microsoft/WindowsApps:/c/Program Files (x86)/Vim/vim82:/c/MinGW/bin:/c/Users/molte/AppData/Local/Programs/Microsoft VS Code/bin:/mingw64/bin:/usr/bin:/c/Users/molte/AppData/Local/gitkraken/bin:/c/Users/molte/AppData/Roaming/npm
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/molte
+USERNAME=molte
+NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+OneDrive=C:\Users\molte\OneDrive - stevens.edu
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+APPDATA=C:\Users\molte\AppData\Roaming
+SYSTEMROOT=C:\WINDOWS
+LOCALAPPDATA=C:\Users\molte\AppData\Local
+GOROOT=/mingw64/lib/go
+PROMPT=$P$G
+ACSetupSvcPort=23210
+COMPUTERNAME=VALIANCE
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info:/share/info
+TERM=xterm
+LOGONSERVER=\\VALIANCE
+ACLOCAL_PATH=/mingw64/share/aclocal:/usr/share/aclocal
+USER=molte
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\
+RlsSvcPort=22112
+OPENCV_DIR=C:\OpenCV\build\x64\vc15
+SW_SIM_HYDRA=C:\Program Files\Common Files\SolidWorks Shared\Simulation Worker Agent\
+TEMP=/tmp
+temp=C:\Users\molte\AppData\Local\Temp
+MSYSTEM_CHOST=x86_64-w64-mingw32
+ORIGINAL_TMP=/c/Users/molte/AppData/Local/Temp
+SHLVL=1
+PROCESSOR_REVISION=6001
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+CONICON=mingw64.ico
+LC_CTYPE=en_US.UTF-8
+SW_SIM_TEMP=C:\ProgramData\SOLIDWORKS\SW_net_sim_temp\
+VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+SESSIONNAME=Console
+PS1=\[\e]0;\w\a\]\n\[\e[32m\]\u@\h \[\e[35m\]$MSYSTEM\[\e[0m\] \[\e[33m\]\w\[\e[0m\]\n\$
+XILINX=C:\NIFPGA\programs\Xilinx14_7\ISE
+HOMEPATH=\Users\molte
+XDG_DATA_DIRS=/mingw64/share/:/usr/local/share/:/usr/share/
+MSYSCON=mintty.exe
+TMP=/tmp
+CONFIG_SITE=/etc/config.site
+PATH=/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/c/Python311/Scripts:/c/Python311:/c/Program Files/Common Files/Oracle/Java/javapath:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn:/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/c/Program Files/Microsoft SQL Server/120/DTS/Binn:/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit:/c/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin:/c/Program Files/IVI Foundation/VISA/Win64/Bin:/c/Program Files (x86)/National Instruments/Shared/LabVIEW CLI:/c/Program Files (x86)/IVI Foundation/VISA/WinNT/Bin:/c/Program Files/Wolfram Research/WolframScript:/c/Program Files/Common Files/Autodesk Shared:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files (x86)/dotnet:/c/Program Files/MATLAB/MATLAB Runtime/v92/runtime/win64:/c/ProgramData/chocolatey/bin:/c/Program Files (x86)/FAHClient:/c/Program Files/MATLAB/R2021b/runtime/win64:/c/Program Files/MATLAB/R2021b/bin:/c/Program Files/nodejs:/c/Users/molte/AppData/Local/Microsoft/WindowsApps:/c/Program Files (x86)/Vim/vim82:/c/MinGW/bin:/c/Users/molte/AppData/Local/Programs/Microsoft VS Code/bin:/mingw64/bin:/usr/bin:/c/Users/molte/AppData/Local/gitkraken/bin:/c/Users/molte/AppData/Roaming/npm:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+OPENCV_BIN=C:\OpenCV\build\x64\vc15\bin
+ProgramW6432=C:\Program Files
+MSYSTEM_PREFIX=/mingw64
+LOGINSHELL=bash
+CONTITLE=MinGW x64
+WINDIR=C:\WINDOWS
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+OneDriveCommercial=C:\Users\molte\OneDrive - stevens.edu
+OLDPWD=/
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+ChocolateyLastPathUpdate=132798580309758346
+_=/usr/bin/env
+
+>>
